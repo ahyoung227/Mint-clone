@@ -4,7 +4,7 @@
 
 ## About The Project
 
-<img src="/mint-clone-ahyoung.png">
+<img src="img/mint-clone-ahyoung.png">
 
 ### Built With
 
